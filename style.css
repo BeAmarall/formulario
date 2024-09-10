@@ -1,0 +1,69 @@
+h1{
+    color: rgb(0, 0, 201);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: -1px;
+    font-size: xx-large;
+}
+.container{
+    width: 340px; ;
+    height: 520px; ;
+    border: solid 1px white;
+background-color: white;
+margin-top: 50px;
+margin-left: 38%;
+box-shadow: 13px 5px 30px rgb(73, 73, 73);
+}
+body{
+background-color: rgb(211, 211, 211);
+}
+button{
+    margin-left: 310px;
+    margin-top: 10px;
+    border: none;
+    background-color: white;
+    font-size: large;
+}
+.user{
+    width: 235px;
+    height: 30px;
+margin-left: 45px;
+margin-top: 5px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: small;
+}
+input{
+    background-color: rgb(196, 196, 196);
+    border: none;
+}
+.senha{
+    width: 235px;
+    height: 30px;
+margin-left: 45px;
+margin-top: 5px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: small;
+}
+.exibir{
+    margin-left: 190px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+
+}
+.entrar{
+    width:235px ;
+    height: 37px ;
+    margin-left: 45px;
+    margin-top: 30px;
+    background-color: rgb(3, 3, 172);
+    color: white;
+}
+.frase{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.h4{
+    margin-left: 106px;
+    
+}
